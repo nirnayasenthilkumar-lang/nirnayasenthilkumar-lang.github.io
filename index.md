@@ -1,2 +1,7 @@
-Welcome to Nirnaya Nation.
+---
+title: nirnayanation
+---
+
+# Welcome 
+
 Posts coming soon 
